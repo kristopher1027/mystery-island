@@ -1,8 +1,7 @@
 # Learning Log — Mystery Island Project
 
-**Author:** [YOUR NAME]
+**Author:** CHRISTOPHER OKOH
 **Python version:** 3.12.3
-**Date:** [TODAY'S DATE]
 **Project:** Mystery Island: The Lost Lighthouse (interactive Python text adventure)
 
 ---
