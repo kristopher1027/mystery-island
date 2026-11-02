@@ -11,13 +11,13 @@ out of energy.
 
 Check your version:
 
-    python --version
+    python3 --version
 
 ## How to run
 
 From the project root:
 
-    python main.py
+    python3 main.py
 
 You will be prompted for your name, then shown a numbered menu of actions.
 Type the **number** of the action you want, or the **action name** itself
@@ -25,9 +25,9 @@ Type the **number** of the action you want, or the **action name** itself
 
 ## How to run the tests
 
-    python -m unittest discover -s tests -v
+    python3 -m unittest discover -s tests -v
 
-You should see 12 tests run and pass.
+You should see 10 tests run and pass.
 
 ## Game rules
 
@@ -77,5 +77,4 @@ Game logic is fully separated from UI, so tests can call functions without
 typing anything.
 
 ## Author
-
-[YOUR NAME]
+CHRISTOPHER OKOH
